@@ -93,6 +93,10 @@ git clone https://github.com/huajian-pro/resume-design.git
 
 > pnpm全局安装方法`npm i -g pnpm`
 
+#### 版本
+* `node`: `v16.20.2`
+* `pnpm`: `7.8.0`
+
 ### 安装项目依赖
 ```bash
 cd resume-design
